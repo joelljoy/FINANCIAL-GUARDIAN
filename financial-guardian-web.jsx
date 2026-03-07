@@ -300,7 +300,7 @@ Start with a relevant emoji.`,
     setDebtForm({name:"",type:"Personal Loan",total:"",paid:"",dueDate:""});setDebtModal(false);
   };
 
-  // ── AUTH ─────────────────────────────────────────────────────────────────
+  // ── AUTH ───────────────────────────────────────────────────────────────
   if(!user){
     const doGoogle=()=>setUser({fullName:"Demo User",email:"demo@gmail.com",phone:"+91 98765 43210",joinDate:"Feb 2026",authMethod:"google",banks:[]});
     const doCreds=()=>{
