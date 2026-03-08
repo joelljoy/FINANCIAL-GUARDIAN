@@ -415,7 +415,7 @@ Start with a relevant emoji.`,
     );
   }
 
-  // ── MAIN APP ───────────────────────────────────────────────────────────
+  // ── MAIN APP ─────────────────────────────────────────────────────────
   const tabs=[["dashboard","📊",t.dashboard],["transactions","💳",t.transactions],["fraud","🚨",t.fraud],["health","❤️",t.health],["debts","💸",t.debts],["assistant","🤖",t.assistant],["profile","👤",t.profile]];
 
   return(
