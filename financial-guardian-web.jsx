@@ -13,7 +13,7 @@ const light = {
   accent:"#0284C7",purple:"#7C3AED",green:"#059669",red:"#DC2626",yellow:"#D97706",
   inputBg:"#F1F5F9",navBg:"#FFFFFF",modalBg:"#FFFFFF",
 };
-123456
+12345
 const T = {
   en:{
     appName:"Financial Guardian",tagline:"AI-Powered Security",
