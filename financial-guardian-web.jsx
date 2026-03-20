@@ -12,7 +12,7 @@ const light = {
   text:"#1E293B",textSec:"#475569",textMuted:"#94A3B8",
   accent:"#0284C7",purple:"#7C3AED",green:"#059669",red:"#DC2626",yellow:"#D97706",
   inputBg:"#F1F5F9",navBg:"#FFFFFF",modalBg:"#FFFFFF",
-};1
+};
 
 const T = {
   en:{
