@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from "react";  
 import { PieChart, Pie, Cell, BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, AreaChart, Area, CartesianGrid } from "recharts";
-1234
+123
 const dark = {
   bg:"#060C1A",surface:"#0F1729",card:"#131E35",border:"rgba(255,255,255,0.07)",
   text:"#E2E8F0",textSec:"#94A3B8",textMuted:"#475569",
